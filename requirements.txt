@@ -1,0 +1,11 @@
+torch
+torchvision
+ftfy
+accelerate
+diffusers
+transformers
+lpips
+imageio
+bitsandbytes
+decord
+git+https://github.com/openai/CLIP.git
