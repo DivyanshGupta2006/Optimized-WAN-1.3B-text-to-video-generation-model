@@ -8,4 +8,7 @@ lpips
 imageio
 bitsandbytes
 decord
+gradio
 git+https://github.com/openai/CLIP.git
+tqdm
+imageio-ffmpeg
