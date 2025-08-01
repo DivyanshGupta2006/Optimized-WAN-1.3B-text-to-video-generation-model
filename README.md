@@ -4,7 +4,7 @@ This repository contains the source code for a highly optimized version of the W
 
 https://github.com/user-attachments/assets/babe4c1e-9479-460e-b2c8-c79d5ad540d3
 
-Prompt: A golden retriever puppy runs joyfully through a field of blooming sunflowers under a bright blue sky, with petals floating in the air and butterfiles fluttering aorund. The camera slowly follows the puppy from a low angle.\\
+Prompt: A golden retriever puppy runs joyfully through a field of blooming sunflowers under a bright blue sky, with petals floating in the air and butterfiles fluttering aorund. The camera slowly follows the puppy from a low angle.\
 
 Features:
 - LoRA
@@ -18,7 +18,7 @@ Features:
 To run optimised Wan 1.3B locally, first clone the repository and install requirements.\
 ```git clone https://github.com/DivyanshGupta2006/Optimized-WAN-1.3B-text-to-video-generation-model.git```\
 ```cd Optimized-WAN-1.3B-text-to-video-generation-model```\
-```pip install -r requirements.txt```\
+```pip install -r requirements.txt```
 
 Then, proceed to run ```Optimized_WAN_1_3B.ipynb```. The generated video is saved under the path ```output_video.mp4```, and an additional mp4 ```output_frames.mp4``` contains the generated frames played back at 1 fps.
 Previous versions of the project can be viewed in the ```Older_Versions``` folder.
