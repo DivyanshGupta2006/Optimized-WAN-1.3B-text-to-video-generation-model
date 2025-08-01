@@ -1,9 +1,9 @@
 # Optimized WAN-1.3B: Enhanced Text to Video Generation
 
 This repository contains the source code for a highly optimized version of the Wan2.1-1.3B text to video generation model developed by Wan AI. Several optimization techniques were applied to improve inference speed without compromising on output quality. A gradio interface seamlessly integrates the pipeline, allowing the user to control individual hyperparameters and view metrics to assess resource usage and model performance. An example output can be viewed below.\
-Prompt: A golden retriever puppy runs joyfully through a field of blooming sunflowers under a bright blue sky, with petals floating in the air and butterfiles fluttering aorund. The camera slowly follows the puppy from a low angle.
 
 https://github.com/user-attachments/assets/babe4c1e-9479-460e-b2c8-c79d5ad540d3
+Prompt: A golden retriever puppy runs joyfully through a field of blooming sunflowers under a bright blue sky, with petals floating in the air and butterfiles fluttering aorund. The camera slowly follows the puppy from a low angle.\\
 
 Features:
 - LoRA
