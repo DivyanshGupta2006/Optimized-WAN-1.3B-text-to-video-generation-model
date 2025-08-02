@@ -4,8 +4,6 @@ This repository contains the source code for a highly optimized version of the W
 
 https://github.com/user-attachments/assets/951a3e5d-e53e-4f26-a983-668988aed40e
 
-Prompt: A golden retriever puppy runs joyfully through a field of blooming sunflowers under a bright blue sky, with petals floating in the air and butterfiles fluttering aorund. The camera slowly follows the puppy from a low angle.
-
 Features:
 - LoRA
 - 4-bit quantization
