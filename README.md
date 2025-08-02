@@ -23,4 +23,7 @@ Then, proceed to run ```Optimized_WAN_1_3B.ipynb```. The generated video is save
 Previous versions of the project can be viewed in the ```Older_Versions``` folder.
 A profiling report can be viewed showing the improvements that each individual optimization techniques provide over the baseline model.
 A technical writeup showing a detailed description of the entire implementation can also be found.
-A demo video folder showing various demonstration clips including a side-by-side comparison between fully optimized and basline model can additionally be viewed. 
+A demo video folder showing various demonstration clips including:\
+- A side-by-side comparison between fully optimized and basline model, and
+- A video of the user interface
+can additionally be viewed. 
