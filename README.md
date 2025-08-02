@@ -11,8 +11,9 @@ Features:
 - 4-bit quantization
 - Operator fusion
 - CPU offloading
-- CFG parallelism
-- Precise control over number of inference steps and guidance scale
+- DPM scheduler
+- Attention slicing
+- Precise control over number of inference steps, guidance scale and generation seed
 
 
 To run optimised Wan 1.3B locally, first clone the repository and install requirements.\
