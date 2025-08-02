@@ -21,3 +21,6 @@ To run optimised Wan 1.3B locally, first clone the repository and install requir
 
 Then, proceed to run ```Optimized_WAN_1_3B.ipynb```. The generated video is saved under the path ```output_video.mp4```, and an additional mp4 ```output_frames.mp4``` contains the generated frames played back at 1 fps.
 Previous versions of the project can be viewed in the ```Older_Versions``` folder.
+A profiling report can be viewed showing the improvements that each individual optimization techniques provide over the baseline model.
+A technical writeup showing a detailed description of the entire implementation can also be found.
+A demo video folder showing various demonstration clips can additionally be viewed. 
